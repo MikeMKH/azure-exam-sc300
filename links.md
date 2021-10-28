@@ -1,0 +1,5 @@
+- [exam](https://docs.microsoft.com/en-us/learn/certifications/exams/sc-300)
+- [pluralsight path](https://app.pluralsight.com/paths/certificate/microsoft-identity-and-access-administrator-sc-300)
+- cloud guru
+  - [security essentials](https://learn.acloud.guru/course/435772f4-baf9-489f-8591-3f8b59833804/overview)
+  - [create and manage azure ad users](https://learn.acloud.guru/course/435772f4-baf9-489f-8591-3f8b59833804/overview)
